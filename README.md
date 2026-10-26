@@ -1,4 +1,3 @@
-<<<<<<< HEAD:racunalniski-praktikum/README.md
 <!-- glavni naslov -->
 # Računalniški praktikum
 <!-- To je komentar, ki bo na prikazanem Markdownu skrit. 
@@ -83,5 +82,4 @@ Včasi</kbd>h pride prav značka `kbd` za tipke. Značko uporabimo takole:
 1. [Računalniški sistemi, storitve in oprema za študente](https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619) <!-- https://ucilnica.fmf.uni-lj.si/mod/page/view.php?id=51619 -->
 1. [Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/) <!-- https://racunalniski-praktikum.github.io/ -->
 1. [Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <!-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
->>>>>>> 482c6886d8b1a1eda7f42ea61a836198542f9b48:README.md
 1. [Urnik FMF](https://urnik.fmf.uni-lj.si/)
