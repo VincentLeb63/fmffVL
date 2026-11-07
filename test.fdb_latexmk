@@ -1,0 +1,23 @@
+# Fdb version 4
+["pdflatex"] 1794082619.17359 "c:/Users/Vans/Desktop/fmffVL/test.tex" "test.pdf" "test" 1794082619.55241 0
+  "C:/Users/Vans/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1794082618 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Vans/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1794082570 13333044 c88eff8dd8ca56b7244bce77be596fca ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/generic/babel/babel.sty" 1765441417 146654 eaac99efd6386094bb8a3980e34ec87b ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-sl.ini" 1765441425 4051 05caf11974323aa9515da50718a718aa ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/generic/babel/locale/sl/babel-slovene.tex" 1765441425 508 9a2bc27ca513ec2309c60038038d0813 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/generic/babel/txtbabel.def" 1765441417 5231 82bb24bf20af7e4d760717f2cadb5170 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/arabi/bblopts.cfg" 1705750854 902 c30e5c373bc58bde21f8f63a3091626f ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/babel-slovenian/slovenian.ldf" 1748080874 3795 6a11b7ba6aa24ec0e0220b60f5ed04ca ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1761900684 20144 b966087dda3b194755eb460d32e2ef75 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty" 1761900684 5048 0270515b828149155424600fd2d58ac5 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1761900684 8448 686612a86f0e04f41ea577f5ec7e83d8 ""
+  "C:/Users/Vans/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1761202581 30662 bfd6e864f4ffc5018b0e2b6260c3181c ""
+  "c:/Users/Vans/Desktop/fmffVL/test.tex" 1794082556 159 d5e5615ed3a786abdd615e61cf7499c3 ""
+  "test.aux" 1794082619 170 590c21ab4e19f47ffa5765d63f084b6b "pdflatex"
+  "test.tex" 1794082556 159 d5e5615ed3a786abdd615e61cf7499c3 ""
+  (generated)
+  "test.aux"
+  "test.log"
+  "test.pdf"
+  (rewritten before read)
